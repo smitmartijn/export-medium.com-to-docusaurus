@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "mediumexporter": "^0.1.6"
+  }
+}
